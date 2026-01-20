@@ -4,7 +4,7 @@ A 3d printed mario green tube inspired cactus plant pot.
 
 Here is the .stl file linked under.
 
-![.stl file](/MariocactusPot.stl) 
+![.stl file](/MarioCactusPot.stl) 
 
 The images of the project and the steps I took are available to view in blueprint, I will put all images below.
 
