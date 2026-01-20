@@ -24,4 +24,4 @@ The images of the project and the steps I took are available to view in blueprin
 
 Here is a screen shot of the 'cart'
 
-![Cart](/images/image.png)  
+![Cart](/images/image.jpg)  
